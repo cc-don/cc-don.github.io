@@ -32,7 +32,7 @@ $cf{sestime} = 60;
 $cf{approve} = 0;
 
 # 掲示板タイトル
-$cf{bbs_title} = '掲示板 - LIGHT BOARD';
+$cf{bbs_title} = 'ccdon test bbs';
 
 # 本体プログラムURL【URLパス】
 $cf{bbs_cgi} = './light.cgi';
@@ -64,7 +64,7 @@ $cf{auto_link} = 1;
 # 引用部色変更
 #  1 : 色指定を行うと「引用部」を色変更します
 #  2 : この機能を使用しない場合は何も記述しない
-$cf{ref_col} = "#0000a0";
+$cf{ref_col} = "#008b8b";
 
 # メール通知機能
 # → 0=no  1=yes
